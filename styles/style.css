@@ -1,0 +1,97 @@
+body{
+    background-color: #e2dcff;
+    font-family: poppins;
+}
+.nav-img{
+    width: 40px;
+}
+.navbar{
+    background-color: #562EFF !important;
+}
+.player{
+    margin: ;
+}
+.player img{
+    width: 56px;
+}
+main{
+    max-width: 870px;
+    border-radius: 5px;
+}
+.main-bg-color{
+    background-color: #FFFFFF;
+}
+
+.header-width{
+    max-width: 870px;
+    
+}
+#text-highlight{
+    color: #562EFF;
+}
+#author-name{
+    color: #562EFF;
+    font-weight: 300;
+}
+#txt-hglgt{
+    color: darkgray;
+    font-weight: 300;
+}
+.blog-1 img{
+    max-width: 177px;
+    max-height: 117px;;
+}
+#brand-logo{
+    font-weight: 500;
+    color: white;
+    font-size: 24px;
+}
+.blog-contents{
+
+}
+.blog-name{
+    /* line-height: 34px; */
+}
+.latest-courses{
+    max-width: 870px;
+    border-radius: 5px;
+}
+.course-author-name{
+    color: #ED6B4F;
+    font-weight: 300;
+}
+.ratings-imgs img{
+    width: 12px;
+    height: 12px;
+}
+.rating-ratio{
+    font-weight: 300;
+    font-size: 16px;
+    color: darkgray;
+}
+.crs-hrs-text{
+    font-weight: 400;
+    font-size: 13px;
+    color: #FF4A60;
+    font-family: Open Sans;
+}
+.img-clk{
+    width: 20px;
+    height: 20px;
+}
+.crs-hrs{
+    background-color: #FFE4E8;
+    border-radius: 25px;
+    /* padding: 6px; */
+}
+.card-title{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 20px;
+}
+.card{
+    border: none;
+    box-shadow: 0px 15px 15px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+}
